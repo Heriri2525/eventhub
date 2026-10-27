@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "title": "Summer Music Festival 2026",
+    "description": "Join us for an unforgettable day of live music featuring top artists from around the world. Experience multiple stages, food trucks, and a vibrant atmosphere.",
+    "category": "Music",
+    "date": "2026-07-15",
+    "time": "14:00",
+    "location": {
+      "name": "Central Park, New York",
+      "lat": 40.785091,
+      "lng": -73.968285
+    },
+    "image": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&h=600&fit=crop",
+    "price": 89.99,
+    "capacity": 500,
+    "organiserId": "1",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Tech Innovation Summit",
+    "description": "Explore the latest trends in technology, AI, and innovation. Network with industry leaders and attend keynote sessions from top tech companies.",
+    "category": "Technology",
+    "date": "2026-08-22",
+    "time": "09:00",
+    "location": {
+      "name": "Convention Center, San Francisco",
+      "lat": 37.784173,
+      "lng": -122.401558
+    },
+    "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop",
+    "price": 299.00,
+    "capacity": 1000,
+    "organiserId": "1",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Art & Culture Exhibition",
+    "description": "Discover contemporary art from emerging artists. This exhibition showcases paintings, sculptures, and installations that challenge conventional perspectives.",
+    "category": "Arts",
+    "date": "2026-09-10",
+    "time": "10:00",
+    "location": {
+      "name": "Modern Art Gallery, London",
+      "lat": 51.508530,
+      "lng": -0.076132
+    },
+    "image": "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=800&h=600&fit=crop",
+    "price": 0,
+    "capacity": 200,
+    "organiserId": "1",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "title": "Startup Networking Mixer",
+    "description": "Connect with fellow entrepreneurs, investors, and startup enthusiasts. Share ideas, find co-founders, and build meaningful business relationships.",
+    "category": "Business",
+    "date": "2026-07-28",
+    "time": "18:00",
+    "location": {
+      "name": "WeWork Hub, Austin",
+      "lat": 30.267153,
+      "lng": -97.743057
+    },
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&h=600&fit=crop",
+    "price": 25.00,
+    "capacity": 150,
+    "organiserId": "1",
+    "featured": true
+  },
+  {
+    "id": "5",
+    "title": "Marathon for Health",
+    "description": "Participate in our annual charity marathon supporting local health initiatives. All fitness levels welcome. Registration includes a race kit and finisher medal.",
+    "category": "Sports",
+    "date": "2026-10-05",
+    "time": "07:00",
+    "location": {
+      "name": "City Stadium, Boston",
+      "lat": 42.360081,
+      "lng": -71.058884
+    },
+    "image": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800&h=600&fit=crop",
+    "price": 45.00,
+    "capacity": 2000,
+    "organiserId": "1",
+    "featured": false
+  },
+  {
+    "id": "6",
+    "title": "Food & Wine Festival",
+    "description": "Indulge in culinary delights from award-winning chefs. Sample wines from renowned vineyards and enjoy live cooking demonstrations.",
+    "category": "Food",
+    "date": "2026-08-15",
+    "time": "12:00",
+    "location": {
+      "name": "Waterfront Plaza, Seattle",
+      "lat": 47.606209,
+      "lng": -122.332069
+    },
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&h=600&fit=crop",
+    "price": 75.00,
+    "capacity": 300,
+    "organiserId": "1",
+    "featured": false
+  },
+  {
+    "id": "7",
+    "title": "Classical Music Concert",
+    "description": "Experience the beauty of classical music performed by a world-renowned symphony orchestra. An evening of Beethoven, Mozart, and Tchaikovsky.",
+    "category": "Music",
+    "date": "2026-11-20",
+    "time": "19:30",
+    "location": {
+      "name": "Opera House, Sydney",
+      "lat": -33.856784,
+      "lng": 151.215297
+    },
+    "image": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=800&h=600&fit=crop",
+    "price": 120.00,
+    "capacity": 800,
+    "organiserId": "1",
+    "featured": true
+  },
+  {
+    "id": "8",
+    "title": "Web Development Bootcamp",
+    "description": "Intensive 2-day workshop covering React, Next.js, and modern web development practices. Hands-on projects and expert instruction included.",
+    "category": "Technology",
+    "date": "2026-09-25",
+    "time": "09:00",
+    "location": {
+      "name": "Tech Campus, Berlin",
+      "lat": 52.520008,
+      "lng": 13.404954
+    },
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
+    "price": 499.00,
+    "capacity": 50,
+    "organiserId": "1",
+    "featured": false
+  },
+  {
+    "id": "9",
+    "title": "Photography Workshop",
+    "description": "Learn professional photography techniques from award-winning photographers. Covers composition, lighting, and post-processing for stunning images.",
+    "category": "Arts",
+    "date": "2026-08-30",
+    "time": "10:00",
+    "location": {
+      "name": "Studio Arts, Toronto",
+      "lat": 43.653226,
+      "lng": -79.383184
+    },
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=800&h=600&fit=crop",
+    "price": 0,
+    "capacity": 25,
+    "organiserId": "1",
+    "featured": false
+  },
+  {
+    "id": "10",
+    "title": "Business Leadership Summit",
+    "description": "Transform your leadership skills with insights from Fortune 500 executives. Workshops on strategy, team building, and organizational excellence.",
+    "category": "Business",
+    "date": "2026-10-18",
+    "time": "08:30",
+    "location": {
+      "name": "Hilton Conference Center, Chicago",
+      "lat": 41.878113,
+      "lng": -87.629799
+    },
+    "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800&h=600&fit=crop",
+    "price": 399.00,
+    "capacity": 500,
+    "organiserId": "1",
+    "featured": false
+  },
+  {
+    "id": "11",
+    "title": "Youth Soccer Tournament",
+    "description": "Annual youth soccer championship for ages 8-16. Teams compete for trophies, and all participants receive medals. Family-friendly event with refreshments.",
+    "category": "Sports",
+    "date": "2026-07-20",
+    "time": "08:00",
+    "location": {
+      "name": "Sports Complex, Miami",
+      "lat": 25.761681,
+      "lng": -80.191788
+    },
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&h=600&fit=crop",
+    "price": 0,
+    "capacity": 400,
+    "organiserId": "1",
+    "featured": false
+  },
+  {
+    "id": "12",
+    "title": "Vegan Cooking Class",
+    "description": "Discover delicious plant-based recipes and cooking techniques. Create a full 3-course meal and take home recipe cards and cooking tips.",
+    "category": "Food",
+    "date": "2026-09-12",
+    "time": "15:00",
+    "location": {
+      "name": "Culinary School, Portland",
+      "lat": 45.515232,
+      "lng": -122.678384
+    },
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800&h=600&fit=crop",
+    "price": 65.00,
+    "capacity": 30,
+    "organiserId": "1",
+    "featured": false
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Alice Organiser",
+    "email": "alice@eventhub.com",
+    "passwordHash": "$2a$10$cGFzc3dvcmQxMjM=",
+    "role": "organiser"
+  },
+  {
+    "id": "2",
+    "name": "Bob User",
+    "email": "bob@example.com",
+    "passwordHash": "$2a$10$cGFzc3dvcmQxMjM=",
+    "role": "user"
+  },
+  {
+    "id": "3",
+    "name": "Charlie Smith",
+    "email": "charlie@example.com",
+    "passwordHash": "$2a$10$cGFzc3dvcmQxMjM=",
+    "role": "user"
+  }
+]
